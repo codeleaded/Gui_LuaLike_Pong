@@ -38,7 +38,7 @@ function main()
 
     score1 = 0
     score2 = 0
-
+    
     rect1 = vec2::new(0.0,0.5)
     rect2 = vec2::new(1.0 - PADDLEWIDTH,0.5)
     ball = vec2::new(0.5,0.5)
