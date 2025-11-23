@@ -28,7 +28,7 @@ function overlap(rect1p,rect1d,rect2p,rect2d)
 end
 
 function main()
-    w = window::new("Hello World",1900,1000)
+    w = window::new("Pong with LuaLike",1900,1000)
     w.init()
 
     PADDLEWIDTH = 0.03
